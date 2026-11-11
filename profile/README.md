@@ -8,6 +8,7 @@ It combines a C++23 real-time audio engine with a Rust application and a GPU-dra
 
 ## Explore the project
 
+- [Website](https://devicedaw.github.io/)
 - [Source code and project overview](https://github.com/chrislaupama/device)
 - [Build from source](https://github.com/chrislaupama/device/blob/main/docs/building.md)
 - [Architecture](https://github.com/chrislaupama/device/blob/main/docs/architecture.md)
@@ -25,4 +26,3 @@ The main repository currently lives at [chrislaupama/device](https://github.com/
 You are welcome to explore, build and fork the project. Outside contributions are not open yet; see the [contribution guide](https://github.com/chrislaupama/device/blob/main/CONTRIBUTING.md) for the current policy. Report security issues privately using the [security policy](https://github.com/chrislaupama/device/blob/main/SECURITY.md).
 
 Device Studio is licensed under [AGPL-3.0-or-later](https://github.com/chrislaupama/device/blob/main/LICENSE).
-
