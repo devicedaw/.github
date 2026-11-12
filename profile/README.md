@@ -1,28 +1,40 @@
-# Device Studio
+<p align="center">
+  <a href="https://devicedaw.github.io/">
+    <img src="https://raw.githubusercontent.com/devicedaw/device/e99b98fe96e9a4ef32e3fc1f7e1b1b843945d4ee/docs/assets/art/social-preview.png" alt="Device Studio — Built for real time. An open-source digital audio workstation." width="100%">
+  </a>
+</p>
 
-**Built for real time.**
+<p align="center">
+  <a href="https://devicedaw.github.io/"><strong>Website</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/devicedaw/device"><strong>Source code</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/devicedaw/device/blob/main/docs/building.md"><strong>Build from source</strong></a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/devicedaw/device/blob/main/PROGRESS.md"><strong>Development progress</strong></a>
+</p>
 
-Device Studio is an open-source digital audio workstation for macOS, Windows and Linux. Record and arrange audio, write MIDI parts, shape sounds with built-in instruments and effects, host AU, VST3 and CLAP plugins, and mix with automation.
+### A studio built around your ideas
 
-It combines a C++23 real-time audio engine with a Rust application and a GPU-drawn interface.
+Device Studio is an open-source digital audio workstation for macOS, Windows and Linux. Record audio, arrange MIDI, explore instruments and effects, and bring a mix to life with automation.
 
-## Explore the project
+| Record & arrange | Shape your sound | Built for real time |
+| --- | --- | --- |
+| Audio and MIDI workflows, a timeline, and automation. | Built-in instruments and effects, plus AU, VST3 and CLAP plugin hosting. | A C++23 audio engine, a Rust application, and a GPU-drawn interface. |
 
-- [Website](https://devicedaw.github.io/)
-- [Source code and project overview](https://github.com/devicedaw/device)
-- [Build from source](https://github.com/devicedaw/device/blob/main/docs/building.md)
-- [Architecture](https://github.com/devicedaw/device/blob/main/docs/architecture.md)
-- [Built-in instruments and effects](https://github.com/devicedaw/device/blob/main/docs/devices.md)
-- [Development progress](https://github.com/devicedaw/device/blob/main/PROGRESS.md)
+### Explore Device
 
-## Current status
+- **[The workstation](https://github.com/devicedaw/device)** — source, capabilities, and development notes.
+- **[Instruments & effects](https://github.com/devicedaw/device/blob/main/docs/devices.md)** — the tools inside Device.
+- **[Under the hood](https://github.com/devicedaw/device/blob/main/docs/architecture.md)** — how the audio engine and interface fit together.
 
-Device Studio is in **pre-alpha**. Features and the project format are still evolving. macOS is the primary development and hardware-testing platform; Windows and Linux support is under development. See the main repository for current capabilities, limitations and build instructions.
+> **Pre-alpha · actively evolving**  
+> Features and the project format are still changing. macOS is the primary development and hardware-testing platform; Windows and Linux support is under development. Check the [main repository](https://github.com/devicedaw/device) for current limitations and build instructions.
 
-The main repository is [devicedaw/device](https://github.com/devicedaw/device).
+---
 
-## Follow along
+You're welcome to explore, build and fork Device Studio. **Outside contributions are not open yet** — see the [contribution policy](https://github.com/devicedaw/device/blob/main/CONTRIBUTING.md). Please report security issues privately through the [security policy](https://github.com/devicedaw/device/blob/main/SECURITY.md).
 
-You are welcome to explore, build and fork the project. Outside contributions are not open yet; see the [contribution guide](https://github.com/devicedaw/device/blob/main/CONTRIBUTING.md) for the current policy. Report security issues privately using the [security policy](https://github.com/devicedaw/device/blob/main/SECURITY.md).
-
-Device Studio is licensed under [AGPL-3.0-or-later](https://github.com/devicedaw/device/blob/main/LICENSE).
+<p align="center">
+  Open source · <a href="https://github.com/devicedaw/device/blob/main/LICENSE">AGPL-3.0-or-later</a> · Built for real time.
+</p>
