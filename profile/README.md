@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://devicedaw.github.io/">
-    <img src="https://raw.githubusercontent.com/devicedaw/device/e99b98fe96e9a4ef32e3fc1f7e1b1b843945d4ee/docs/assets/art/social-preview.png" alt="Device Studio — Built for real time. An open-source digital audio workstation." width="100%">
+    <img src="https://raw.githubusercontent.com/devicedaw/device/2bedea2/docs/assets/art/social-preview.png" alt="Device — Built for real time. An open-source digital audio workstation." width="100%">
   </a>
 </p>
 
@@ -16,7 +16,7 @@
 
 ### A studio built around your ideas
 
-Device Studio is an open-source digital audio workstation for macOS, Windows and Linux. Record audio, arrange MIDI, explore instruments and effects, and bring a mix to life with automation.
+Device is an open-source digital audio workstation for macOS, Windows and Linux. Record audio, arrange MIDI, explore instruments and effects, and bring a mix to life with automation.
 
 | Record & arrange | Shape your sound | Built for real time |
 | --- | --- | --- |
@@ -33,7 +33,7 @@ Device Studio is an open-source digital audio workstation for macOS, Windows and
 
 ---
 
-You're welcome to explore, build and fork Device Studio. **Outside contributions are not open yet** — see the [contribution policy](https://github.com/devicedaw/device/blob/main/CONTRIBUTING.md). Please report security issues privately through the [security policy](https://github.com/devicedaw/device/blob/main/SECURITY.md).
+You're welcome to explore, build and fork Device. **Outside contributions are not open yet** — see the [contribution policy](https://github.com/devicedaw/device/blob/main/CONTRIBUTING.md). Please report security issues privately through the [security policy](https://github.com/devicedaw/device/blob/main/SECURITY.md).
 
 <p align="center">
   Open source · <a href="https://github.com/devicedaw/device/blob/main/LICENSE">AGPL-3.0-or-later</a> · Built for real time.
