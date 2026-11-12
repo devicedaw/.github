@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://devicedaw.github.io/">
-    <img src="https://raw.githubusercontent.com/devicedaw/device/2bedea2/docs/assets/art/social-preview.png" alt="Device — Built for real time. An open-source digital audio workstation." width="100%">
+    <img src="https://raw.githubusercontent.com/devicedaw/device/a528ac174843917c542525b329f7eea1c95533d8/docs/assets/art/social-preview.png" alt="Device — Your studio. No subscription. An open-source digital audio workstation." width="100%">
   </a>
 </p>
 
